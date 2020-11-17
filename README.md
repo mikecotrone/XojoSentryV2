@@ -22,3 +22,4 @@ Example Exception Reported by Our Xojo test app in Sentry.io:
 ![image](https://github.com/mikecotrone/XojoSentryV2/blob/master/ss2.png)
 
 <br>
+![image](https://github.com/mikecotrone/XojoSentryV2/blob/master/ss1.png)
