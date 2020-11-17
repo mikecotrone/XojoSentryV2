@@ -12,7 +12,7 @@ Version:        0.2
 Contributors:   Mike Cotrone, Jim McKay
 
 Overview:
---------
+=========
 
 This is a full client written in Xojo for [Sentry.io](https://www.sentry.io). The Sentry.io platform helps every developer diagnose, fix, and optimize the performance of their code. With Sentry, developers around the world save time, energy, and probably a few therapy sessions.
  
