@@ -18,9 +18,11 @@ This is a full client written in Xojo for [Sentry.io](https://www.sentry.io). Th
  
 
 Example Exception Reported by Our Xojo test app in Sentry.io:
--------------------------------------------------------------
+=============================================================
 ![image](https://github.com/mikecotrone/XojoSentryV2/blob/master/ss2.png)
 
+<br>
+
 Example Exception Level Details Reported by Our Xojo test app in Sentry.io:
----------------------------------------------------------------------------
+===========================================================================
 ![image](https://github.com/mikecotrone/XojoSentryV2/blob/master/ss1.png)
