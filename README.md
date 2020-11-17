@@ -13,3 +13,8 @@ Version:        0.2
 
 Contributors:   Mike Cotrone, Jim McKay
 
+
+
+![image](https://github.com/mikecotrone/XojoSentryV2/blob/master/ss1.png)
+
+![image](https://github.com/mikecotrone/XojoSentryV2/blob/master/ss2.png)
