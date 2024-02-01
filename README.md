@@ -5,7 +5,7 @@ Date:           November 16, 2020
 
 Language:       Xojo 2020r2 Desktop & iOS Project
 
-Author:         Mike Cotrone (mikec@2tab.io)
+Author:         Mike Cotrone (mikec@vistatechgso.com)
 
 Version:        2
 
